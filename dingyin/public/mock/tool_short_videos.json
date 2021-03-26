@@ -1,0 +1,203 @@
+{
+    "total_number": "4337",
+    "classification_data": {
+        "title" : "分类",
+        "data" : [
+            {
+                "name":"全部"
+            },
+            {
+                "name":"手机数码"
+            },
+            {
+                "name":"电脑办公"
+            },
+            {
+                "name":"服装饰品"
+            },
+            {
+                "name":"美妆个护"
+            },
+            {
+                "name":"户外运动"
+            },
+            {
+                "name":"家用电器"
+            },
+            {
+                "name":"食品百货"
+            },
+            {
+                "name":"母婴玩具"
+            },
+            {
+                "name":"鞋靴箱包"
+            },
+            {
+                "name":"珠宝文玩"
+            },
+            {
+                "name":"生活厨具"
+            },
+            {
+                "name":"卧室家具"
+            },
+            {
+                "name":"图书文娱"
+            },
+            {
+                "name":"汽配摩托"
+            },
+            {
+                "name":"其他商品"
+            }
+        ]
+    },
+    "saleroom" : [
+        {
+            "value" : 0,
+            "label": "全部"
+        },
+        {
+            "value" : 1,
+            "label" : "<1万"
+        },
+        {
+            "value" : 2,
+            "label" : "1万-10万"
+        },
+        {
+            "value" : 3,
+            "label" : "10万-1百万"
+        },
+        {
+            "value" : 4,
+            "label" : "1百万-1千万"
+        },
+        {
+            "value" : 5,
+            "label" : "1千万-5千万"
+        },
+        {
+            "value" : 6,
+            "label" : ">5千万"
+        }
+    ],
+    "sales_volume" : [
+        {
+            "value" : 0,
+            "label" : "全部"
+        },
+        {
+            "value" : 1,
+            "label" : "近3天"
+        },
+        {
+            "value" : 2,
+            "label" : "近一周"
+        },
+        {
+            "value" : 3,
+            "label" : "近一个月"
+        },
+        {
+            "value" : 4,
+            "label" : "近三个月"
+        },
+        {
+            "value" : 5,
+            "label" : "近半年"
+        },
+        {
+            "value" : 6,
+            "label" : "大于半年"
+        }
+        
+    ],
+    "detailed_purple": [
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        },
+        {
+            "title": "可爱已婚宅男口播",
+            "title_desc": "剧情",
+            "history_download": "44323",
+            "release_time": "2021-01-03",
+            "desc": "开头进行反转，引出趁早买重疾划算的亮点，进一步宣传我们商品的卖点进行宣传"
+        }
+    ]
+}

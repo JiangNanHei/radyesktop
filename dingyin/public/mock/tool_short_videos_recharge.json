@@ -1,0 +1,23 @@
+{
+    "result": {
+        "title": "脚本素材下载次数",
+        "surplus_number": "2",
+        "recharge_result": [
+            {
+                "number": "88.00",
+                "desc": "50"
+            },
+            {
+                "number": "138.00",
+                "desc": "100"
+            },
+            {
+                "number": "200.00",
+                "desc": "200"
+            }
+        ],
+        "qr_code": "https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQGT7zwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUV9BbmdZY3ljNzIxV1hHLWh2Y3gAAgR-qv5fAwQ8AAAA",
+        "result_item": "88.00",
+        "count_down": "14分59秒"  
+    }
+}

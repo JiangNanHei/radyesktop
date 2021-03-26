@@ -1,0 +1,39 @@
+{
+    "monitoringdata" : "",
+    "selling_price" : [
+        {
+            "label": "全部监控"
+        },
+        {
+            "label": "1"
+        },
+        {
+            "label": "2"
+        },
+        {
+            "label": "3"
+        }
+    ],
+    "start_time": "2021-01-05 16:42",
+    "end_time": "2021-01-05 16:42",
+    "ialog_table_visible_number": "5",
+    "ialog_table_visible": [
+        {
+            "message": "南城旧梦",
+            "douyin": "NANCHENGJUMENG1994"
+        },
+        {
+            "message": "南城旧梦",
+            "douyin": "NANCHENGJUMENG1994"
+        },
+        {
+            "message": "南城旧梦",
+            "douyin": "NANCHENGJUMENG1994"
+        },
+        {
+            "message": "南城旧梦",
+            "douyin": "NANCHENGJUMENG1994"
+        }
+    ]
+    
+}

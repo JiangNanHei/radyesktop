@@ -1,0 +1,86 @@
+{
+    "thumbs_up_data": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY1": [400000, 30000, 60000, 50000, 8000, 90000]
+    },
+    "industry_distribution": [
+        {"value": 23, "name": "<30分钟（10%）"},
+        {"value": 24, "name": "1-2个小时（20%）"},
+        {"value": 28, "name": ">4个小时（40%）"},
+        {"value": 25, "name": "2-4个小时（30%）"}
+    ],
+    "music_message": [
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "desc": "2.3W"
+        }
+    ]
+}

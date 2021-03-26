@@ -1,0 +1,19 @@
+{
+    "remaining_times": "0",
+    "recharge_result":[
+        {
+            "number": "280.00",
+            "desc": "20"
+        },
+        {
+            "number": "480.00",
+            "desc": "50"
+        },
+        {
+            "number": "780.00",
+            "desc": "100"
+        }
+    ],
+    "qr_code": "https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQGT7zwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUV9BbmdZY3ljNzIxV1hHLWh2Y3gAAgR-qv5fAwQ8AAAA",
+    "count_down": "14分59秒"
+}

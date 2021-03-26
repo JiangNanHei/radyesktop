@@ -1,0 +1,87 @@
+{
+    "real_rate" : [
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+            
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9",
+
+            "keythree" : "场均观看人数",
+            "pricethree" : "52"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "-0.9"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "-0.9",
+
+            "keythree" : "场均观看人数",
+            "pricethree" : "52"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "-0.9"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9",
+            "keythree" : "场均观看人数",
+            "pricethree" : "52"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9",
+
+            "keythree" : "场均观看人数",
+            "pricethree" : "52"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9"
+        },
+        {
+            "keyone" : "观看人数",
+            "priceone" : "119000",
+
+            "keytow" : "相比上小时",
+            "pricetow" : "0.9",
+
+            "keythree" : "场均观看人数",
+            "pricethree" : "52"
+        }
+    ]
+}

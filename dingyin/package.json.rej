@@ -1,0 +1,9 @@
+diff a/dingyin/package.json b/dingyin/package.json	(rejected hunks)
+@@ -25,7 +25,6 @@
+     "vue-router": "^3.0.3",
+     "vue-schart": "^2.0.0",
+     "vuedraggable": "^2.17.0",
+-    "swiper": "^5.3.6",
+     "vuex": "^3.1.2"
+   },
+   "devDependencies": {

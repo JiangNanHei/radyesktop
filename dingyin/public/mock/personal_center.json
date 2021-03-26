@@ -1,0 +1,18 @@
+{
+    "account_id": "13638527791",
+    "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+    "phone_number": "13638527791",
+    "member": {
+        "member_message": "基础会员版",
+        "member_status": "1"
+    },
+    "phone_bind": {
+        "phone_bind_message": "13638527791",
+        "phone_bind_desc": "已绑定手机",
+        "phone_bind_status": true
+    },
+    "we_chat": {
+        "we_chat_message": "未绑定微信",
+        "we_chat_status": false
+    }
+}

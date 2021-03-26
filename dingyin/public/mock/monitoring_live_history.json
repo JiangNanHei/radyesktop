@@ -1,0 +1,75 @@
+{
+    "activeNames": ["1"],
+    "monitoringdata" : "",
+    "selling_price" : [
+        {
+            "label": "全部监控"
+        },
+        {
+            "label": "1"
+        },
+        {
+            "label": "2"
+        },
+        {
+            "label": "3"
+        }
+    ],
+    "monitoring_show" : [
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title": "南城旧梦",
+            "time_quantum" : "2021-01-07 16：00——2021-01-08 16：00",
+            "douyin": "NANCHENJGUMENG1994",
+            "desc": "先给自己定个小目标，先赚他一个亿",
+            "status_style": {
+                "message": "正在监控中",
+                "status_number": true,
+                "number": "1"
+            },
+            "monitoring_message":[
+                
+            ]
+            
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title": "南城旧梦",
+            "time_quantum" : "2021-01-07 16：00——2021-01-08 16：00",
+            "douyin": "NANCHENJGUMENG1994",
+            "desc": "先给自己定个小目标，先赚他一个亿",
+            "status_style": {
+                "message": "监控已经结束",
+                "status_number": false,
+                "number": "1"
+            },
+            "monitoring_message":[
+                
+            ]
+            
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title": "南城旧梦",
+            "time_quantum" : "2021-01-07 16：00——2021-01-08 16：00",
+            "douyin": "NANCHENJGUMENG1994",
+            "desc": "先给自己定个小目标，先赚他一个亿",
+            "status_style": {
+                "message": "正在监控中",
+                "status_number": true,
+                "number": "1"
+            },
+            "monitoring_message":[
+                {
+                    "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+                    "title": "阿迪达斯品牌狂欢日",
+                    "live_time": "3小时7分钟",
+                    "goods_carried": "18",
+                    "sound_wave": "22.5W",
+                    "viewers_number": "1.5W"
+                }
+            ]
+            
+        }
+    ]
+}

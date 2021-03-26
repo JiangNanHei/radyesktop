@@ -1,0 +1,59 @@
+{
+    "talent_information": {
+        "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+        "title": "交个朋友抖音小店",
+        "commodity": 20
+        
+    },
+    "content_data": [
+        {
+            "number": "4.66",
+            "status": "高",
+            "desc": "用户口碑"
+        },
+        {
+            "number": "4.71",
+            "status": "高",
+            "desc": "发货速度"
+        },
+        {
+            "number": "4.67",
+            "status": "高",
+            "desc": "服务态度"
+        }
+    ],
+    "basic_data": [
+       {
+           "number": "2.5W",
+           "desc": "销量"
+       },
+       {
+           "number": "4315.0W",
+           "desc": "销售额"
+       },
+       {
+           "number": "22",
+           "desc": "推广商品数"
+       },
+       {
+           "number": "1%",
+           "desc": "佣金比例"
+       },
+       {
+           "number": "¥66",
+           "desc": "客单价"
+       },
+       {
+           "number": "26",
+           "desc": "关联达人"
+       },
+       {
+           "number": "4",
+           "desc": "关联视频"
+       },
+       {
+           "number": "36",
+           "desc": "关联直播"
+       }
+   ]
+}

@@ -1,0 +1,735 @@
+{
+    "mode_selection" : [ 
+        { "imgUrl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image", "title" : "监控实时直播" },
+        { "imgUrl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image", "title" : "解析带货数据" },
+        { "imgUrl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image", "title" : "发现爆款商品" },
+        { "imgUrl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image", "title" : "更多工具助力" }
+    ],
+    "mediumBox" : [
+        {
+            "mediumBox_left" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "imggifurl" : "https://static.douchacha.com/img/living.297b2ad1.gif",
+                "streamingstatus" : "直播中",
+                "title" : "深圳严选服饰1"
+            },
+            "mediumBox_center" : {
+                "title" : "实时销售额",
+                "saleroom" : "607000",
+                "time" : "07点56分开播"
+            },
+            "mediumBox_right" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title" : "查看详情"
+            }
+        },
+        {
+            "mediumBox_left" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "imggifurl" : "https://static.douchacha.com/img/living.297b2ad1.gif",
+                "streamingstatus" : "直播中",
+                "title" : "深圳严选服饰2"
+            },
+            "mediumBox_center" : {
+                "title" : "实时销售额",
+                "saleroom" : "607000",
+                "time" : "07点56分开播"
+            },
+            "mediumBox_right" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title" : "查看详情"
+            }
+        },
+        {
+            "mediumBox_left" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "imggifurl" : "https://static.douchacha.com/img/living.297b2ad1.gif",
+                "streamingstatus" : "直播中",
+                "title" : "深圳严选服饰3"
+            },
+            "mediumBox_center" : {
+                "title" : "实时销售额",
+                "saleroom" : "607000",
+                "time" : "07点56分开播"
+            },
+            "mediumBox_right" : {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title" : "查看详情"
+            }
+        }
+    ],
+    "homehosalelistdata" : [
+        {
+            "header" : {
+                "title" : "商品销售榜one"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "商品销售榜tow"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "商品销售榜three"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "商品销售榜three"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "商品销售榜three"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "商品销售榜three"
+            },
+            "assistant_header" : {
+                "title1" : "商品",
+                "title2" : "售价",
+                "title3": "销售增量"
+            },
+            "content" : [
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : false
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "blue"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : false
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                },
+                {
+                    "portraitimg" : {
+                        "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "radius" : true
+                    },
+                    "paperwork" : "老金磨方坊黑芝麻丸即食手工蜂蜜黑豆黑米黑芝麻丸球男女老人零食",
+                    
+                    "moneyfield" : {
+                        "title" : "￥59",
+                        "color" : "red"
+                    },
+                    "icoimgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "quantityfield" : {
+                        "title" : 170000,
+                        "color" : "red"
+                    }
+                }
+            ]
+        }
+    ],
+    "instrument" : [
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "去水印"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "视频剪辑"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "多控系统"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "获取采集系统"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "短信服务"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "查询商品"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "达人只能匹配"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "账号估值"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "短视频脚本库"
+        },
+        {
+            "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title" : "数据定制"
+        }
+    ],
+    "informationdata" : [
+        {
+            "title" : "数据报告",
+            "studyVidiolistdata" : [
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "11月带货榜单：直播销售额近一亿，23万粉丝达人强势上榜！",
+                    "time" :  "2020-11-30"
+                },
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "苏宁易购，罗永浩累计GMV超10亿，小店最高销售额4.8亿，双11的榜单数据来了。",
+                    "time" :  "2020-11-30"
+                },
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "10月份小店生态趋势分析报告来了?",
+                    "time" :  "2020-11-30"
+                }
+            ]
+        },
+        {
+            "title" : "热门文章",
+            "studyVidiolistdata" : [
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "11月带货榜单：直播销售额近一亿，23万粉丝达人强势上榜！",
+                    "time" : "2020-11-30"
+                },
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "苏宁易购，罗永浩累计GMV超10亿，小店最高销售额4.8亿，双11的榜单数据来了。",
+                    "time" : "2020-11-30"
+                },
+                {
+                    "dinzhi" : "true",
+                    "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "copywriter" : "10月份小店生态趋势分析报告来了?",
+                    "time" : "2020-11-30"
+                }
+            ]
+        }
+    ],
+    "brandingdata" : [
+        {"imgurl":"https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image","title":"抖音"},
+        {"imgurl":"https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image","title":"快手"},
+        {"imgurl":"https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image","title":"中国移动"},
+        {"imgurl":"https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image","title":"中国电信"}
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "star_map_title": "55.6",
+    "star_map_index": {
+        "max_value": 100,
+        "starChart": {
+            "传播指数48.0":"48.0",
+            "合作指数48.4":"48.4",
+            "涨粉指数74.9":"74.9",
+            "种草指数49.9":"49.9",
+            "性价比指数75.1":"75.1"
+        }
+    },
+    "with_goods": {
+        "category": ["零食商品","美妆护理","家居宠物","3C数码","烟草酒类"],
+        "brand": ["网易严选","贵州茅台","APPLE","小米","无印良品"]
+    },
+    "live_broadcast": [
+        {
+            "number": "22",
+            "desc": "近30天场次"
+        },
+        {
+            "number": "94",
+            "desc": "历史总场次"
+        },
+        {
+            "number": "9.5W",
+            "desc": "近30天场均音浪收入"
+        },
+        {
+            "number": "8.5W",
+            "desc": "近30天场均销量"
+        },
+        {
+            "number": "1432.8W",
+            "desc": "近30天场均销售额"
+        },
+        {
+            "number": "5小时22分35秒",
+            "desc": "平均开播时长"
+        },
+        {
+            "number": "0",
+            "desc": "本周开播场次"
+        },
+        {
+            "number": "2",
+            "desc": "周均开播场次"
+        },
+        {
+            "number": "20",
+            "desc": "本月场次"
+        },
+        {
+            "number": "10",
+            "desc": "月均开播场次"
+        }
+    ],
+    "video_overview": [
+        {
+            "number": "436",
+            "desc": "历史视频数"
+        },
+        {
+            "number": "5.7W",
+            "desc": "平均点赞"
+        },
+        {
+            "number": "0.35%",
+            "desc": "平均赞粉比"
+        },
+        {
+            "number": "0",
+            "desc": "近30天预估销量"
+        },
+        {
+            "number": "0.00",
+            "desc": "近30天预估销量额"
+        },
+        {
+            "number": "2分35秒",
+            "desc": "视频平均时长"
+        },
+        {
+            "number": "10",
+            "desc": "周均视频个数"
+        },
+        {
+            "number": "43",
+            "desc": "月均视频个数"
+        }
+    ],
+    "online_retailers": {
+        "historty_number": "3589",
+        "commodity_category": "21",
+        "commodity_brand": "985",
+        "source_platform": "9"
+    },
+    "category_echarts": [
+        {"value": 10, "name": "3C数码10%"},
+        {"value": 20, "name": "美妆护理20%"},
+        {"value": 40, "name": "其他40%"},
+        {"value": 30, "name": "零食食品30%"}
+    ],
+    "brand_echarts": [
+        {"value": 10, "name": "无印良品10%"},
+        {"value": 20, "name": "APPLE20%"},
+        {"value": 40, "name": "其他40%"},
+        {"value": 30, "name": "网易严选30%"}
+    ],
+    "platform_echarts": [
+        {"value": 10, "name": "淘宝10%"},
+        {"value": 20, "name": "京东20%"},
+        {"value": 40, "name": "小店40%"},
+        {"value": 30, "name": "其他30%"}
+    ]        
+}

@@ -1,0 +1,436 @@
+{
+    "carouselData": [
+        {
+            "title": "正在直播人数",
+            "peoplequantity": 51000,
+            "ptitle": "带货直播人数",
+            "pright": 17000
+        },
+        {
+            "title": "当前总点赞数",
+            "peoplequantity": 430000000,
+            "ptitle": "TOP100当前点赞数",
+            "pright": 7269000
+        },
+        {
+            "title": "商品总数",
+            "peoplequantity": 377000,
+            "ptitle": "带货直播人数",
+            "pright": 17000
+        },
+        {
+            "title": "直播带货销量",
+            "peoplequantity": 8380000,
+            "ptitle": "TOP100带货商品数",
+            "pright": 493000
+        },
+        {
+            "title": "直播带货销售额",
+            "peoplequantity": 240000000,
+            "ptitle": "TOP100直播带货销售额",
+            "pright": 24256000
+        },
+        {
+            "title": "直播带货销量",
+            "peoplequantity": 8380000,
+            "ptitle": "TOP100带货商品数",
+            "pright": 493000
+        },
+        {
+            "title": "直播带货销售额",
+            "peoplequantity": 240000000,
+            "ptitle": "TOP100直播带货销售额",
+            "pright": 24256000
+        }
+    ],
+    "to_issue_list": [
+        {
+            "value": "近24小时"
+        },
+        {
+            "value": "12月23日"
+        },
+        {
+            "value": "12月22日"
+        },
+        {
+            "value": "12月21日"
+        },
+        {
+            "value": "12月20日"
+        },
+        {
+            "value": "12月19日"
+        },
+        {
+            "value": "12月18日"
+        },
+        {
+            "value": "12月17日"
+        },
+        {
+            "value": "12月16日"
+        },
+        {
+            "value": "12月15日"
+        },
+        {
+            "value": "12月14日"
+        }
+    ],
+    "tableDataobj" : {
+        "totalPages" : 3,
+        "tabDatalist": [
+            {
+                "ranking": 1,
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": 2,
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": 3,
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": 4,
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": 5,
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": "1",
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": "1",
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": "1",
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": "1",
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            },
+            {
+                "ranking": "1",
+
+                "live" : {
+                    "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                    "img_gifurl": "https://static.douchacha.com/img/living.297b2ad1.gif",
+                    "title_top": "炫研女装来了",
+                    "opening_hours": "2020-12-16 13:01"
+                },
+               
+
+
+               "intelligent" : {
+                    "imgurl": "https://p9-dy.byteimg.com/img/tos-cn-avt-0015/e9245255e8c8c61ada8e88ad98c867d8~c5_1080x1080.jpeg?from=4010531038",
+                    "title_top": "海宁女装工厂",
+                    "thenumberoffans": 392000,
+                    "reputation": "带货口碑",
+                    "number": "4.75",
+                    "give": "高"
+               },
+
+                
+
+                "theairtime": "12-17 09:34",
+
+                "viewsnumber": 768,
+
+                "sound": 1814,
+
+                "givelink": 52000,
+
+                "salesvolume": 2093,
+
+                "saleroom": 943000
+            }
+        ]
+    }
+}

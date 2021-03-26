@@ -1,0 +1,75 @@
+{
+    "talent_information": {
+        "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+        "title": "越野女士马丁靴",
+        "message_icon": {
+            "zhibo": true,
+            "dianpu": true
+        },
+        "price": "¥9.9",
+        "commission": "¥3.3",
+        "percentage": "33.3%"
+    },
+    "basic_data": [
+        {
+            "number": "2.5W",
+            "desc": "30天热推达人"
+        },
+        {
+            "number": "15.0W",
+            "desc": "全网销量"
+        },
+        {
+            "number": "44876",
+            "desc": "关联直播场次"
+        },
+        {
+            "number": "8",
+            "desc": "关联视频数"
+        },
+        {
+            "number": "5969",
+            "desc": "关联达人数"
+        }
+    ],
+    "message_supply":[
+        {
+            "number": "13.91%",
+            "desc": "30天转化率"
+        },
+        {
+            "number": "59.1W",
+            "desc": "30天浏览量"
+        },
+        {
+            "number": "8.2W",
+            "desc": "30天销量"
+        }
+    ],
+    "message_shop": {
+        "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+        "title": "阿迪达斯官方小店",
+        "message_supplement": [
+            {
+                "number": "4.56",
+                "desc": "用户口碑"
+            },
+            {
+                "number": "4.7",
+                "desc": "发货速度"
+            },
+            {
+                "number": "4.65",
+                "desc": "用户口碑"
+            }
+        ]
+    },
+    "hot_talent": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY": [400000, 30000, 60000, 50000, 8000, 90000]
+    },
+    "commission_rate": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY": [400000, 30000, 60000, 50000, 8000, 90000]
+    }
+}

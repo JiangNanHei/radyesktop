@@ -1,0 +1,101 @@
+{
+    "detail_screen": {
+        "online_number": "67428",
+        "sales_volume": "2467428.38",
+        "watch_number": "546769",
+        "income": "6456678",
+        "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038"
+    },
+    "detail_small": {
+        "title": "645.6W",
+        "content_show":[
+            {
+                "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+                "desc": "一个鸡腿子",
+                "number": "4.3w"
+            },
+            {
+                "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+                "desc": "一个鸡腿子",
+                "number": "4.3w"
+            },
+            {
+                "imgUrl": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/313eb0007f3342c05bded.jpeg?from=4010531038",
+                "desc": "一个鸡腿子",
+                "number": "4.3w"
+            }
+        ]
+    },
+    "online_echarts": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY1": [400000, 30000, 60000, 50000, 8000, 90000],
+        "dataY2": [40000, 3000, 60000, 5000, 80000, 9000]
+    },
+    "sales_volume_echarts": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY1": [400000, 30000, 60000, 50000, 8000, 90000],
+        "dataY2": [40000, 3000, 60000, 5000, 80000, 9000]
+    },
+    "fans_echarts": {
+        "dataX" : ["2012", "2013", "2014", "2015", "2016", "2017"],
+        "dataY1": [400000, 30000, 60000, 50000, 8000, 90000],
+        "dataY2": [40000, 3000, 60000, 5000, 80000, 9000]
+    },
+    "towtableData": [
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "estimate_sales" : "¥299.00",
+            "estimate_saleroom": "15%",
+            "give": "12-11 18:40",
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+                
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "estimate_sales" : "¥299.00",
+            "estimate_saleroom": "15%",
+            "give": "12-11 18:40",
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+                
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "estimate_sales" : "¥299.00",
+            "estimate_saleroom": "15%",
+            "give": "12-11 18:40",
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+                
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "estimate_sales" : "¥299.00",
+            "estimate_saleroom": "15%",
+            "give": "12-11 18:40",
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+                
+        }    
+    ],
+    "gender_boys": "81.2",
+    "age_pie_echarts": [
+        {"value": 23, "name": "<30分钟（10%）"},
+        {"value": 24, "name": "1-2个小时（20%）"},
+        {"value": 28, "name": ">4个小时（40%）"},
+        {"value": 25, "name": "2-4个小时（30%）"}
+    ]
+}

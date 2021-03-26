@@ -1,0 +1,659 @@
+{
+    "classification_data" : [
+        {
+            "title" : "选择分类",
+            "data" : [
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                },
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                },
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                }
+            ]
+        },
+        {
+            "title" : "选择平台",
+            "data" : [
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "小店",
+                    "figure" : "1021"
+                }
+            ]
+        },
+        {
+            "title" : "选择品牌",
+            "data" : [
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                },
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                },
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                },
+                {
+                    "name" : "零食食品",
+                    "figure" : "178"
+                },
+                {
+                    "name" : "美妆护理",
+                    "figure" : "148"
+                },
+                {
+                    "name" : "3C数码",
+                    "figure" : "99"
+                },
+                {
+                    "name" : "家具宠物",
+                    "figure" : "85"
+                },
+                {
+                    "name" : "烟草酒类",
+                    "figure" : "84"
+                },
+                {
+                    "name" : "全部",
+                    "figure" : "1035"
+                }
+            ]
+        },
+        {
+            "title" : "带货类型",
+            "data" : [
+                {
+                    "name" : "视频",
+                    "figure" : ""
+                },
+                {
+                    "name" : "直播",
+                    "figure" : ""
+                }
+            ]
+        },
+        {
+            "title" : "价格区间",
+            "data" : [
+                {
+                    "name" : "不限"
+                },
+                {
+                    "name" : "<50元"
+                },
+                {
+                    "name" : "50-100元"
+                },
+                {
+                    "name" : "100-500元"
+                },
+                {
+                    "name" : "500-1000元"
+                },
+                {
+                    "name" : ">10000元"
+                }
+            ]
+        }
+    ],
+
+   
+    "overview_data": [
+        {
+            "title": "累计商品数",
+            "figure": "3589"
+        },
+        {
+            "title": "累计销量",
+            "figure": "186.1W"
+        },
+        {
+            "title": "累计销售额",
+            "figure": "3.15亿"
+        },
+        {
+            "title": "关联直播",
+            "figure": "22"
+        },
+        {
+            "title": "关联视频",
+            "figure": "0"
+        }
+    ],
+
+
+    
+    "towtable_data_master": [
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        }
+    ],
+    
+    "towtableData": [
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        },
+        {
+            "one": {
+                "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "【TD】Apple/苹果 iPhone",
+                "now_money": "99",
+                "once_money": "199"
+            },
+            "tow": "小店",
+            "three": "1",
+            "four": 600,
+            "five": 1185,
+            "six": 0
+        }
+    ]
+}

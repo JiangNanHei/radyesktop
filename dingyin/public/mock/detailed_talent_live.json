@@ -1,0 +1,381 @@
+{
+    "live_overview": [
+        {
+            "number": "22",
+            "desc": "直播场次"
+        },
+        {
+            "number": "22",
+            "desc": "带货场次"
+        },
+        {
+            "number": "208W",
+            "desc": "累计音浪"
+        },
+        {
+            "number": "8.3W",
+            "desc": "场均音浪"
+        },
+        {
+            "number": "8.7W",
+            "desc": "场均销量"
+        },
+        {
+            "number": "1438.4W",
+            "desc": "场均销售额"
+        },
+        {
+            "number": "1035",
+            "desc": "上架商品"
+        },
+        {
+            "number": "2.26%",
+            "desc": "带货转化率"
+        }
+    ],
+    "live_watch": {
+        "11/28": "5000",
+        "11/29": "10000",
+        "11/30": "50000",
+        "12/1": "50000",
+        "12/2": "50000",
+        "12/3": "500000",
+        "12/4": "50000",
+        "12/5": "300000",
+        "12/6": "50000",
+        "12/7": "500000",
+        "12/8": "50000",
+        "12/9": "50000",
+        "12/10": "500000",
+        "12/11": "50000",
+        "12/12": "30000",
+        "12/13": "50000",
+        "12/14": "500000",
+        "12/15": "50000",
+        "12/16": "50000",
+        "12/17": "500000",
+        "12/18": "50000",
+        "12/19": "300000",
+        "12/20": "50000",
+        "12/21": "50000",
+        "12/22": "50000",
+        "12/23": "500000",
+        "12/24": "5000",
+        "12/25": "50000",
+        "12/26": "50000",
+        "12/27": "50000",
+        "12/28": "50000"
+    },
+    "live_time": {
+        "周一": "10",
+        "周二": "52",
+        "周三": "200",
+        "周四": "334",
+        "周五": "390",
+        "周六": "330",
+        "周日": "220"
+    },
+    "live_pie": [
+        {"value": 23, "name": "<30分钟（10%）"},
+        {"value": 24, "name": "1-2个小时（20%）"},
+        {"value": 28, "name": ">4个小时（40%）"},
+        {"value": 25, "name": "2-4个小时（30%）"}
+    ],
+    "live_table": [
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        },
+        {
+            "video_content": {
+                "imgurl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "唯品会专场直播"
+            },
+            "release_time": "12-11 18:40",
+            "estimate_sales" : "5小时23分3秒",
+            "estimate_saleroom": 5.2,
+            "give": 7,
+            "comment": 44,
+            "transpond": 9.2,          
+            "sales_amount" : 1381
+            
+        }
+        
+    ]
+}

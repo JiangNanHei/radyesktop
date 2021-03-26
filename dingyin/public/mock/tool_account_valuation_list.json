@@ -1,0 +1,30 @@
+{
+    "monitoring_show" : [
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title": "南城旧梦",
+            "time_quantum" : "2021-01-07 16:00——2021-01-08 16:00",
+            "douyin": "NANCHENJGUMENG1994",
+            "desc": "先给自己定个小目标，先赚他一个亿",
+            "number": "",
+            "status_style": {
+                "message": "正在估值中",
+                "status_number": true
+            }
+            
+        },
+        {
+            "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+            "title": "南城旧梦",
+            "time_quantum" : "2021-01-07 16:00——2021-01-08 16:00",
+            "douyin": "NANCHENJGUMENG1994",
+            "desc": "先给自己定个小目标，先赚他一个亿",
+            "number": 528.4,
+            "status_style": {
+                "message": "估值完成",
+                "status_number": false
+            }
+            
+        }
+    ]
+}

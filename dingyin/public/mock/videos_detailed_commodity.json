@@ -1,0 +1,53 @@
+{
+    "video_table": [
+        {
+            "video_content": {
+                "imgUrl" : "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                "title": "马克华菲潮流运动鞋男休闲鞋（现在全场7折）"
+            },
+            
+            "price": "¥199.9",
+            "sales_volume": "76.2W",        
+            "sales_amount" : "2476.2W",
+            "children": [
+                {
+                    "ranking": 1,
+        
+                    "video" : {
+                        "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "title" : "爱情最初的模样，这又是多少人的青春年少",
+                        "desc": "#少年说 #青春校园 @DOU+小助手"
+                    },
+        
+                    "talent" : {
+                        "name" : "长沙小美",
+                        "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image"
+                    },
+                    
+                    "thumbs_up": "554.2W",
+                    "share": "154.2W",
+                    "comment": "54.2"
+                },
+                {
+                    "ranking": 1,
+        
+                    "video" : {
+                        "imgurl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image",
+                        "title" : "爱情最初的模样，这又是多少人的青春年少",
+                        "desc": "#少年说 #青春校园 @DOU+小助手"
+                    },
+        
+                    "talent" : {
+                        "name" : "长沙小美",
+                        "imgUrl": "https://p16.pstatp.com/img/webcast/6871143281217080078~tplv-obj.image"
+                    },
+                    
+                    "thumbs_up": "554.2W",
+                    "share": "154.2W",
+                    "comment": "54.2"
+                }
+            ]
+            
+        }
+    ]
+}
